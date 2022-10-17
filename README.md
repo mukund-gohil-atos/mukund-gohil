@@ -1,6 +1,17 @@
 # HELLO WORLD 👋
 
-## [Mukund](https://www.mukund.fun/) here 
+## [Mukund Gohil](https://www.mukund.fun/) here 
+
+```c++
+int main() {
+  cout << "[Mukund Gohil](https://www.mukund.fun/) here" ;
+  cout << "Let's have some fun" ;
+  if( any issue from below list ) {
+    DM me;
+  }
+  return (0);
+}
+```
 
 I am a Cloud Consultant and Developer, currently, I work full time [Atos](https://www.atos.net/). <br/>
 
