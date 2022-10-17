@@ -4,7 +4,7 @@
 
 ```c++
 int main() {
-  cout << "[Mukund Gohil](https://www.mukund.fun/) here" ;
+  cout << "How are you doing ???" ;
   cout << "Let's have some fun" ;
   if( any issue from below list ) {
     DM me;
